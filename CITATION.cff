@@ -1,0 +1,7 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+         Maoyuan Feng, Shushi Peng, Yilong Wang, Philippe Ciais, Daniel S Goll, Jinfeng Chang, Yunting Fang, Benjamin Z. Houlton, Gang Liu, Yan Sun, Yi Xi
+Title: Random Forest codes for Overestimated nitrogen loss from denitrification for natural terrestrial ecosystems in CMIP6 Earth System Models (Version 1.0)
+version: v1.0
+date-released: 2023-04-03
